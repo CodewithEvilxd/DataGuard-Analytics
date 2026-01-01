@@ -19,6 +19,13 @@
 
 > **🔐 Privacy-First Analytics** 🚀 Query your data locally with complete privacy. Powered by DuckDB WASM. Zero server involvement.
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dataguard-analytics-xd.vercel.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodewithEvilxd/DataGuard-Analytics)
+
+</div>
+
 ![DataGuard Analytics](public/og-image.png)
 
 ---
